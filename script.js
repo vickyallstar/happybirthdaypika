@@ -19,7 +19,7 @@ let currentSongIndex = 0;
 let pinCode = "";
 let isPlaying = false;
 let typingInterval = null; // <-- FIX: simpan referensi interval typing
-const targetPin = "110911";
+const targetPin = "250909";
 const flowerEmojis = ['🌼', '🌸', '🌷', '🌹', '🌻', '💐'];
 
 const flowerMessages = {
