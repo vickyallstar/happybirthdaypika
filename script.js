@@ -229,7 +229,7 @@ function initScrollAnimation() {
 // biar gak numpuk dan bikin text jadi ngaco.
 // ============================================================
 function startTypingEffect() {
-    const text = "SEPTEMBER 11 — THE MOST SPECIAL DAY";
+    const text = "SEPTEMBER 25 — THE MOST SPECIAL DAY";
     const element = document.getElementById('typing-date');
     
     // Stop interval sebelumnya kalau ada
